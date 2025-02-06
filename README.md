@@ -1,4 +1,4 @@
-Hackintosh EFI - Dell OptiPlex 5060 (macOS Sequoia)
+Hackintosh EFI - Dell OptiPlex 5060 SFF (macOS Sequoia)
 
 Descrizione
 
