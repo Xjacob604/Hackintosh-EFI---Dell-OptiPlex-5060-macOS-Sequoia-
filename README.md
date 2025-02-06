@@ -58,6 +58,8 @@ Hackintosh Community
 
 Giacomo Ls (Creatore Efi Personalizzata)
 
+Fabrizio G. (CoBug Fixer)
+
 Immagine di installazione Utilizzata: Olarilla Mac Os sequoia
 
 ⚠️ Disclaimer: Questa configurazione è fornita senza garanzia. L'uso è a proprio rischio. Assicurarsi di fare un backup dei propri dati prima di procedere con l'installazione.
